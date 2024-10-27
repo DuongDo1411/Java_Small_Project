@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestB20:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestB20_jar</output-path>
+    <root id="archive" name="TestB20.jar">
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/swinglabs/swingx/swingx-all/1.6.5-1/swingx-all-1.6.5-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/toedter/jcalendar/1.4/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.3.4/jaxb-impl-2.3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

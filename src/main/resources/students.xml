@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Nguyễn Anh Trường</name>
+        <cccd>0912828282</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>15/06/2024</examDate>
+        <result>Trượt</result>
+    </student>
+    <student>
+        <name>Hoàng Thanh Lâm</name>
+        <cccd>019828828282</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>08/06/2024</examDate>
+        <result>Đỗ</result>
+    </student>
+    <student>
+        <name>Vũ Lê Thái Dương</name>
+        <cccd>001204009404</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>15/06/2024</examDate>
+        <result>Đỗ</result>
+    </student>
+    <student>
+        <name>Nguyễn Anh Dũng</name>
+        <cccd>09289282882</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>15/06/2024</examDate>
+        <result>Trượt</result>
+    </student>
+    <student>
+        <name>Ngô Quang Anh</name>
+        <cccd>09128978228</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>08/06/2024</examDate>
+        <result>Đỗ</result>
+    </student>
+    <student>
+        <name>Nguyễn Đức Huy</name>
+        <cccd>00120408737</cccd>
+        <registeredLicenseType>E</registeredLicenseType>
+        <examDate>07/06/2024</examDate>
+        <result>Đỗ</result>
+    </student>
+</students>
